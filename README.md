@@ -109,4 +109,4 @@ Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m
 
 Let's stay in touch! Feel free to connect with me on the linkedin:
 
-[![LinkedIn](www.linkedin.com/in/iammarrasheed)
+[![LinkedIn](https://linkedin.com/in/iammarrasheed)
