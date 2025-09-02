@@ -105,8 +105,8 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Ammar Rasheed**. I’m a Computer Science Graduate and passionate Data Scientist on a mission to share knowledge and make working with data enjoyable and engaging!
 
-Let's stay in touch! Feel free to connect with me on the linkedin:
+Let's stay in touch! Feel free to connect with me on linkedin:
 
 [![LinkedIn](https://linkedin.com/in/iammarrasheed)
