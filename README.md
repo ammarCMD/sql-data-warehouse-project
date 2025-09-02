@@ -108,4 +108,4 @@ Hi there! I'm **Ammar Rasheed**. I’m a Computer Science Graduate and passionat
 
 Let's stay in touch! Feel free to connect with me on linkedin:
 
-- **[LinkedIn](https://linkedin.com/in/iammarrasheed):**
+- **[LinkedIn](https://linkedin.com/in/iammarrasheed)**
