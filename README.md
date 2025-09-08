@@ -104,7 +104,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Ammar Rasheed**. I’m a Computer Science Graduate and passionate Data Scientist on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Ammar Rasheed**. A Computer Science Graduate and passionate Data Scientist on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on linkedin:
 
